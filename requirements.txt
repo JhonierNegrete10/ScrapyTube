@@ -1,0 +1,7 @@
+#env 
+python-dotenv
+
+# web scraping 
+selenium
+undetected-chromedriver
+scrapy
