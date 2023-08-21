@@ -1,4 +1,25 @@
-#env 
+# analysis
+numpy  
+pandas 
+nltk
+scikit-learn
+
+# Graph 
+matplotlib
+seaborn 
+plotly
+scipy 
+WordCloud
+# Knowledge graph 
+networkx
+
+#Embeddings 
+spacy
+
+#ipynb 
+ipykernel 
+
+#.env 
 python-dotenv
 
 # web scraping 
