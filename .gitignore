@@ -1,6 +1,10 @@
 *.json
 
-
+git-filter-repo 
+clean-ignore
+en_core_web_lg-3.6.0-py3-none-any.whl
+en_core_web_sm-3.6.0-py3-none-any.whl
+html.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
