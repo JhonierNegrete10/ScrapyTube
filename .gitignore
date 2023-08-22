@@ -1,6 +1,7 @@
 *.json
 
 git-filter-repo 
+git-delete-history.sh
 clean-ignore
 en_core_web_lg-3.6.0-py3-none-any.whl
 en_core_web_sm-3.6.0-py3-none-any.whl
