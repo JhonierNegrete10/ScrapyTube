@@ -4,6 +4,9 @@ pandas
 nltk
 scikit-learn
 
+#Topic Modelling 
+gensim
+
 # Graph 
 matplotlib
 seaborn 
