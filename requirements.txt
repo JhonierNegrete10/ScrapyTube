@@ -3,9 +3,16 @@ numpy
 pandas 
 nltk
 scikit-learn
+torch  --index-url https://download.pytorch.org/whl/cu118
+torchvision --index-url https://download.pytorch.org/whl/cu118
+torchaudio
 
 #Topic Modelling 
 gensim
+top2vec
+bertopic
+
+
 
 # Graph 
 matplotlib
