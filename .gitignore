@@ -1,15 +1,10 @@
 # Custom 
 *.json
-git-filter-repo 
-git-delete-history.sh
-clean-ignore
 en_core_web_lg-3.6.0-py3-none-any.whl
 en_core_web_sm-3.6.0-py3-none-any.whl
 *.html
-convert.py 
 converted_scripts/ 
-static/Ver más tarde - YouTube_files
-
+transcriptions/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

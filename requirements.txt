@@ -12,7 +12,13 @@ gensim
 top2vec
 bertopic
 
-
+#Llamma2 
+huggingface-hub
+datasets 
+accelerate 
+bitsandbytes 
+xformers 
+adjustText
 
 # Graph 
 matplotlib
@@ -21,6 +27,7 @@ plotly
 scipy 
 WordCloud
 pyLDAvis
+
 # Knowledge graph 
 networkx
 
@@ -37,3 +44,7 @@ python-dotenv
 selenium
 undetected-chromedriver
 scrapy
+
+#whisper 
+# ffmpeg
+openai-whisper
